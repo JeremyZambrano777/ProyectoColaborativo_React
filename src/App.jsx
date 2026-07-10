@@ -1,7 +1,7 @@
 import "./App.css";
 
 import PerfilJeremyLider from "./components/PerfilJeremyLider";
-
+import PerfilNixon  from "./components/PerfilNixon";
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
 
       <div className="contenedor">
         <PerfilJeremyLider />
+        <PerfilNixon />
 
       </div>
     </>
